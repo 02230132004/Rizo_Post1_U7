@@ -1,0 +1,1 @@
+// This file is deprecated. Use com.rizo.securenotifyapp.MainActivity instead.

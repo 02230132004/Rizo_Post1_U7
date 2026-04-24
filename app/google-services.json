@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625549208354",
+    "project_id": "notifyapp-d0a9c",
+    "storage_bucket": "notifyapp-d0a9c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625549208354:android:453a54676df4ba697ad37b",
+        "android_client_info": {
+          "package_name": "com.rizo.securenotifyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3TGhDl5w0gTAyYRyItLBUp1iEJNVyzLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
