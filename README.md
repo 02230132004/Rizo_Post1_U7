@@ -1,5 +1,5 @@
 # Rizo_Post1_U7
-# rizo-post1-u7 – NotifyMe (Unidad 7)
+# NotifyMe (Unidad 7)
 
 ## Descripción
 
