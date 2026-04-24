@@ -160,8 +160,4 @@ README.md
 
 El desarrollo de este laboratorio permitió comprender la importancia del manejo adecuado de permisos en Android, así como la correcta configuración de notificaciones y su integración con servicios externos como Firebase. Además, se garantizó que la aplicación mantuviera estabilidad y una experiencia de usuario adecuada en diferentes escenarios.
 
----
 
-## Repositorio
-
-https://github.com/02230132004/Miguel-Rizo-previo-p2
